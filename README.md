@@ -4,7 +4,7 @@ This is the companion repository for the blog post at [makeartwithpython.com](ht
 
 ## Architecture
 
-![Lens Architecture](https://github.com/burningion/lens-effect-python/raw/master/images/eyeflow.png)
+![Lens Architecture](https://github.com/burningion/snapchat-lens-effect-in-python/raw/master/images/eyeflow.png)
 
 ## Usage
 
@@ -18,6 +18,6 @@ $ python3 eye-glitch.py -predictor shape_predictor_68_face_landmarks.dat
 
 ... and by pressing 's' to enable the eye snake, you'll end up with something like this:
 
-![Image like this](https://github.com/burningion/lens-effect-python/raw/master/images/out.gif)
+![Image like this](https://github.com/burningion/snapchat-lens-effect-in-python/raw/master/images/out.gif)
 
 See the full post at https://www.makeartwithpython.com/blog/building-a-snapchat-lens-effect-in-python/
